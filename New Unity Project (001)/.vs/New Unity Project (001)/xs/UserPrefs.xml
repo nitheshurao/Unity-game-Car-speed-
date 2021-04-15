@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E424F715-C5B1-AC62-E612-7875E5A8896D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerControler.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerControler.cs" Line="7" Column="3" />
+      <File FileName="Assets/Script/FolloPlayer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (001)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="PlayerControler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d09554ac-dc3d-470b-9e4c-3e8ba339b769" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
